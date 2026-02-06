@@ -1,17 +1,17 @@
 ## Hi there 👋
 
-I'm **Sachinsingh198**, a passionate developer committed to building innovative solutions and contributing to open-source projects.
+I'm **Sachin Singh**, a passionate developer committed to building innovative solutions and contributing to open-source projects.
 
 ### 🔭 About Me
-- 💻 Full-stack developer with expertise in multiple programming languages
+- 💻 Machine Learning Engineering with expertise in multiple programming languages
 - 🚀 Passionate about creating impactful software solutions
 - 📚 Continuous learner eager to explore new technologies
 - 🤝 Open to collaborating on meaningful projects
 
 ### 🛠️ Tech Stack
 - **Languages**: JavaScript, Python, Java, C++, and more
-- **Frontend**: HTML, CSS, React, Vue.js
-- **Backend**: Node.js, Express, Django, Flask
+- **Frontend**: HTML, CSS, React
+- **Backend**: Node.js, FastAPI
 - **Databases**: MongoDB, MySQL, PostgreSQL
 - **Tools & Platforms**: Git, GitHub, Docker, REST APIs
 
